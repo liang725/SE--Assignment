@@ -1,0 +1,14 @@
+{
+  "name": "@d3/force-directed-graph-component",
+  "main": "a6c00de7c09bdfa1@340.js",
+  "version": "340.0.0",
+  "homepage": "https://observablehq.com/@d3/force-directed-graph-component",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
